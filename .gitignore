@@ -1,0 +1,7 @@
+zephyr/
+zmk/
+zmk-pmw3610-driver/
+modules/
+build/
+.west/
+
