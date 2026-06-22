@@ -55,9 +55,6 @@
     };
 
     behaviors {
-        #include "macros.dtsi"
-        #include "version.dtsi"
-
         lt_to_layer_0: lt_to_layer_0 {
             compatible = "zmk,behavior-hold-tap";
             label = "LAYER_TAP_TO_0";
